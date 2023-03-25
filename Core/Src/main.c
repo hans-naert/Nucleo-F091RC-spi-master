@@ -55,7 +55,7 @@ static void MX_USART2_UART_Init(void);
 
 /* USER CODE END PFP */
 
-/* Private code ---------------------------------------------------------*/
+/* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
 
 /* USER CODE END 0 */
