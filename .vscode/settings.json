@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32f0xx_hal.h": "c"
+    },
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/Core/Inc",
+        "${workspaceFolder}/Drivers/STM32F0xx_HAL_Driver/Inc",
+        "${workspaceFolder}/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy",
+        "${workspaceFolder}/Drivers/CMSIS/Device/ST/STM32F0xx/Include",
+        "${workspaceFolder}/Drivers/CMSIS/Include"
+    ],
+}
